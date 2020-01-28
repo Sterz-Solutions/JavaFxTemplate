@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample2Controller">
+   <children>
+      <Button fx:id="wechsel" layoutX="50.0" layoutY="150.0" mnemonicParsing="false" onAction="#wechsel" text="Wechsel zu 1" />
+   </children>
+</AnchorPane>
